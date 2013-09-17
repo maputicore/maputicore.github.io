@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 雑談 | えとせのぶろぐ]]></title>
   <link href="http://maputicore.github.io/blog/categories/za-tan/atom.xml" rel="self"/>
   <link href="http://maputicore.github.io/"/>
-  <updated>2013-09-18T02:38:41+09:00</updated>
+  <updated>2013-09-18T02:44:50+09:00</updated>
   <id>http://maputicore.github.io/</id>
   <author>
     <name><![CDATA[maputicore]]></name>
@@ -33,6 +33,9 @@ git clone git@github.com:imathis/octopress.git username.github.io
 
 <p>3.rakeのバージョンが新しすぎるとだめ
 ⇛後日shでも書くか</p>
+
+<p>4.各種コマンドを自分好みにするため<b>要復習</b>
+<a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/">http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/</a></p>
 ]]></content>
   </entry>
   
